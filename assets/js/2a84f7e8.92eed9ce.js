@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoriginal_mriya_docs=self.webpackChunkoriginal_mriya_docs||[]).push([[822],{3769:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
